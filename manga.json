@@ -1,0 +1,7 @@
+{
+  "data": [
+    { "id": "1", "title": "海贼王", "cover": "https://img2.doubanio.com/view/subject/l/public/s27233301.jpg" },
+    { "id": "2", "title": "火影忍者", "cover": "https://img1.doubanio.com/view/subject/l/public/s4442125.jpg" },
+    { "id": "3", "title": "死神", "cover": "https://img3.doubanio.com/view/subject/l/public/s2950567.jpg" }
+  ]
+}
